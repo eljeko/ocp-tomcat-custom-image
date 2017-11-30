@@ -19,8 +19,6 @@ This command will start the build of the image
 
 oc new-build
 
-crea una build config
-
 # Dockerfile
 
 You can edit your Dockerfile in order to customize your image.
